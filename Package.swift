@@ -1,4 +1,4 @@
-// swift-tools-version:5.5.3
+// swift-tools-version:5.6
 import PackageDescription
 
 let package = Package(
@@ -34,4 +34,3 @@ let package = Package(
         ])
     ]
 )
-
