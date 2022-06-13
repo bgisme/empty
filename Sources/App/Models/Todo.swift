@@ -17,4 +17,3 @@ final class Todo: Model, Content {
         self.title = title
     }
 }
-

@@ -12,4 +12,3 @@ struct CreateTodo: AsyncMigration {
         try await database.schema("todos").delete()
     }
 }
-
